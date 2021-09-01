@@ -18,5 +18,8 @@ function App() {
 
 
 
+            <Button variant="primary" size="lg" >
+                GO TO NEXT PAGE
+            </Button>
 
         </div >
