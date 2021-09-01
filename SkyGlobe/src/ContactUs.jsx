@@ -13,7 +13,7 @@ function App() {
     return (
         <div className="App">
 
-            <center><h1 style={{ fontFamily: 'monospace' }} size={100} >ABOUT US</h1></center>  <br />
+            <center><h1 style={{ fontFamily: 'monospace' }} size={100} >CONTACT US</h1></center>  <br />
 
 
         </div >
