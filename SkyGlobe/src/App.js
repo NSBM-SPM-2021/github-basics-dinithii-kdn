@@ -17,6 +17,7 @@ function App() {
   return (
     <div className="App">
 
+
       <h1>WELCOME HOME PAGE</h1>
 
       <center><h1 style={{ fontFamily: 'monospace' }} size={100} >Welcome to FlightX !</h1></center>  <br />
