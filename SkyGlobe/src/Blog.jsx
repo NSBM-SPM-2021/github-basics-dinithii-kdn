@@ -13,7 +13,6 @@ function App() {
     return (
         <div className="App">
 
-            <center><h1 style={{ fontFamily: 'monospace' }} size={100} >BLOG</h1></center>  <br />
 
 
-        </div >
+        </div>
