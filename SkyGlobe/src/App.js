@@ -8,6 +8,8 @@ import img1 from './images/img1.PNG';
 
 import Contact from './Contact';
 import Home from './Home'
+import About from './About'
+import Contact from './Contact'
 
 
 
